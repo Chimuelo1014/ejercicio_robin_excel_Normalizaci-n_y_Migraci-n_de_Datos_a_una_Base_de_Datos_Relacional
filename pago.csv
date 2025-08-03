@@ -1,0 +1,16 @@
+id_pago,estado,metodo_pago,total_linea,id_factura
+1,Pendiente,Efectivo,40,1
+2,Pendiente,Tarjeta,55,2
+3,Pendiente,Transferencia,65,3
+4,Pendiente,Tarjeta,160,4
+5,Pendiente,Transferencia,270,5
+6,Pagada,Tarjeta,130,6
+7,Pagada,Efectivo,220,7
+8,Pendiente,Efectivo,110,8
+9,Pagada,Tarjeta,55,9
+10,Pendiente,Efectivo,130,10
+11,Pendiente,Tarjeta,120,11
+12,Pagada,Tarjeta,120,12
+13,Pendiente,Tarjeta,220,13
+14,Pagada,Tarjeta,40,14
+15,Pagada,Efectivo,90,15
